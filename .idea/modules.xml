@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-book-literature-main.iml" filepath="$PROJECT_DIR$/.idea/spring-book-literature-main.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/book-spring-alura.iml" filepath="$PROJECT_DIR$/.idea/book-spring-alura.iml" />
+>>>>>>> 38ff3eb46e5d388275c6322f68859f69eeab52b4
     </modules>
   </component>
 </project>
